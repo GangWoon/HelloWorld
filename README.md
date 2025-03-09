@@ -3,6 +3,6 @@
 
 안녕하세요 - feature1
 
-반갑습니다 - feature1
+슈바인학센입니다 - feature3
 
-오늘 점심은 - feature2
+반갑습니다 - feature1
