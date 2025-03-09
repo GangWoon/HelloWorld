@@ -4,3 +4,5 @@
 안녕하세요 - feature1
 
 반갑습니다 - feature1
+
+오늘 점심은 - feature2
